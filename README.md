@@ -1,4 +1,4 @@
-# 🚀 Lockaway (Beta)
+# 🔒 Lockaway (Beta)
 
 ### A privacy-focused app to lock "Active Application Windows" after a set period of inactivity.
 
