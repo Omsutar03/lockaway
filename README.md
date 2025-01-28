@@ -6,6 +6,8 @@
 
 ## 🔗 [Download the Latest Release](https://github.com/Omsutar03/lockaway/releases/tag/beta)
 
+> ## Make sure to run application with ADMINISTRATIVE privileges
+
 ---
 
 ## ✨ Features
